@@ -19,8 +19,7 @@ hr {
 
 
 .container {
-  clear: left;
-outline: 1px solid red;
+ clear: left;
 float: left;
 padding: 50px;
 }
@@ -28,7 +27,6 @@ padding: 50px;
 
 .caja {
 
-outline: 1px solid blue;
  border: 1px;
  width: 280px;
  height: 280px;
